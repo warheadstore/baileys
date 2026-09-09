@@ -36,6 +36,6 @@ Dirancang agar ringan, cepat, dan mudah digunakan, serta mendukung berbagai fitu
 
 # Installation
 
-npm install RahmadPasker/baileys
+npm install github:warheadstore/baileys
 
 ---
